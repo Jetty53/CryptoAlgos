@@ -6,7 +6,7 @@ Please follow this directory path: CryptoAlgos/CipherName/LanguageName/MethodNum
 
 List of already implemented algorithms:
 
-<li>
-  1) Affine - JAVA - 1 Method(s)
-  2) Atbash - JAVA - 1 Method(s)
-</li>
+<ol>
+  <li>1) Affine - JAVA - 1 Method(s)</li>
+  <li>2) Atbash - JAVA - 1 Method(s)</li>
+</ol>
